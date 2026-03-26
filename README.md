@@ -4,14 +4,6 @@ Connect, disconnect, and manage Sidecar from Raycast without opening Control Cen
 
 Sidecar Connect is built for people who already use Sidecar and want a faster workflow in Raycast. It gives you quick commands to connect to your iPad, disconnect active sessions, toggle the current state, and manage favorite or recently used devices.
 
-## Screenshots
-
-![Raycast search results for Sidecar Connect](media/screenshot-sidecar-items.png)
-
-![Manage Sidecar device list](media/screenshot-manage-sidecar.png)
-
-![Manage Sidecar action panel](media/screenshot-manage-sidecar-options.png)
-
 ## Commands
 
 - **Manage Sidecar**: Browse connected, available, and recently used devices. Connect, disconnect, favorite devices, remove history entries, refresh discovery, and open Display Settings.
